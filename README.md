@@ -22,3 +22,19 @@ Functionalities:-
 6> After completion of the whole palylist the playlist loops itself.
 
 7> The cover art and the details change according to the song.
+
+
+An icon pack is used in the website.
+
+Screen Shorts:-
+
+![Screenshot 2022-02-16 042158](https://user-images.githubusercontent.com/98833063/154163501-7b9651f8-a848-41cb-80c5-961ac33b1301.png)
+
+![Screenshot 2022-02-16 042301](https://user-images.githubusercontent.com/98833063/154163504-76a36e71-514d-411c-b410-70c901266670.png)
+
+![Screenshot 2022-02-16 042327](https://user-images.githubusercontent.com/98833063/154163491-397650a9-53c1-4367-86ca-4354572a4bd6.png)
+
+
+
+
+
